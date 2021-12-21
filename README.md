@@ -9,15 +9,7 @@ Tetris from https://api.arcade.academy/en/latest/examples/tetris.html#tetris
 
 Have  fun!
 
-These libraries must be installed on your device before running:
-random
-arcade
-ursina
-PIL
-os
-time
-turtle
-sys
+!NEW!
+Installer script has been created in the latest release, Alpha v0.2.1!
 
-
-A .sh will be created for these in the finished alpha.
+May need sudo/admin rights
